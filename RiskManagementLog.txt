@@ -1,0 +1,33 @@
+Risk Management Log to be updated as needed as per Risk Management Document requirements
+
+7/04/21
+Risk of spending too much effort on coding and leaving no time to complete documentation
+
+6/04/21
+Risk of not completing Scheduling module on time
+
+5/04/21
+Risk of having too many bugs to possibly solve all of the issues
+
+17/03/21 
+Risk of running out of time before implementing the ability for a client to view client features, and employee viewing employee features
+
+17/03/21
+Moved Top 10 Risks over to a Google doc, and it can be found in the wiki
+
+23/02/21
+Not completing Sales and Vendor modules early enough to leave time to create ledger, accounts receivable and accounts payable. Monitoring
+this risk closely
+
+22/02/21
+Risk of finishing sales module and vendors module with not enough time to spare in order to create the Ledger, Accounts Receivable and Payable
+
+01/02/21
+Created the top 10 risks list to keep track of what are the most pressing risks
+
+31/01/21
+Revised risk management document and made some improvements
+
+30/01/21
+Developed Risk Management document detailing how risk will be managed throughout this project
+
